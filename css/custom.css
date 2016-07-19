@@ -155,7 +155,8 @@ a:hover {
   background-color: #F5F8FA; }
 
 #fotoback {
-  width: 100%; }
+  width: 100%;
+  box-shadow: inset 0 0 1px 1px rgba(0, 0, 0, 0.2); }
 
 .autor {
   font-weight: bold;
